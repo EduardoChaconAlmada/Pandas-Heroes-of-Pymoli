@@ -96,7 +96,7 @@ As final considerations:
 
 ## Option 2: PyCitySchools
 
-![Education](Images/week-4-pandas_homework_Instructions_Images_education
+![Education](Images/week-4-pandas_homework_Instructions_Images_education.png)
 
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 
